@@ -1,0 +1,9 @@
+Package: com.FrostyModz.TestRepo
+Name: TestRepo
+Version: 1.0-1
+Depends: winterboard
+Architecture: iphoneos-arm
+Description: My First Theme
+Maintainer: FrostyModz <AzoraRaise@gmail.com>
+Author: FrostyModz (Chris) <AzoraRaise@gmail.com>
+Section: Themes (Springboard)
