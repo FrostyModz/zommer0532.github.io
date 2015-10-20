@@ -1,0 +1,8 @@
+Package: com.zommer0532.FastRespring
+Name: FastRespring
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Pull up on the spring board in app switcher to respring!
+Maintainer: zommer0532 <AzoraRaise@gmail.com>
+Author: zommer0532 (Chris) <AzoraRaise@gmail.com>
+Section: Tweaks
