@@ -1,9 +1,0 @@
-Package: org.zommer0532.FastRespring
-Name: FastRespring
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Respring your device by removing the springboard from the app switcher. supports 9
-Maintainer: zommer0532
-Author: zommer0532
-Section: Tweaks
